@@ -6,12 +6,12 @@
 (function () {
   'use strict';
 
-  // ============================================================
-  // 1. CONFIGURAÇÃO - 1
-  // ============================================================
-  const CONFIG = {
-    // URL do ZIP no release
-    zipURL: 'https://github.com/mroctoz/vizinhanca26-dados/releases/download/dados-v1/dados-v1.zip',
+const CONFIG = {
+  // ANTES:
+  // zipURL: 'https://github.com/mroctoz/vizinhanca26-dados/releases/download/dados-v1/dados-v1.zip',
+
+  // DEPOIS:
+  zipURL: 'https://proxy-dados-vizinhanca.guestboimano024231.workers.dev/?user=mroctoz&repo=vizinhanca26-dados&tag_name=dados-v1&file_name=dados-v1.zip',
 
     cargos: {
       presidente: { nome: 'Presidente', arquivoLV: 'presidenteLV' },
