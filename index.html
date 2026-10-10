@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vizinhança 26 — Resultados Eleitorais 2026</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Loader global (aparece até o ZIP terminar de carregar) -->
+  <div id="loader" class="loader">
+    <div class="loader-box">
+      <div class="loader-title">Vizinhança 26</div>
+      <div class="loader-msg" id="loader-msg">Iniciando…</div>
+      <div class="loader-bar"><div class="loader-bar-fill" id="loader-bar-fill"></div></div>
+    </div>
+  </div>
+
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-mark">◉</span>
+      <span class="brand-text">Vizinhança<strong>26</strong></span>
+    </div>
+    <nav class="breadcrumb" id="breadcrumb" aria-label="Navegação"></nav>
+    <div class="header-meta"><span class="header-tag">Eleições 2026</span></div>
+  </header>
+
+  <main class="site-main">
+    <div id="map"></div>
+    <aside class="controles" id="controles"></aside>
+    <div class="legenda" id="legenda"></div>
+    <div class="painel-wrapper">
+      <aside class="painel" id="painel"></aside>
+      <button class="painel-close" id="painel-close" type="button" aria-label="Fechar">×</button>
+    </div>
+  </main>
+
+  <!-- JSZip (para extrair o ZIP no navegador) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+  <!-- Leaflet -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- App -->
+  <script src="app.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      if (window.VizinhancaApp) {
+        window.VizinhancaApp.init({ mapaId: 'map', controlesId: 'controles' });
+      }
+    });
+    document.addEventListener('click', (e) => {
+      if (e.target && e.target.id === 'painel-close') {
+        document.getElementById('painel')?.classList.remove('aberto');
+      }
+    });
+  </script>
+</body>
+</html>
