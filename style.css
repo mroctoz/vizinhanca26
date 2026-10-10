@@ -1,0 +1,465 @@
+/* ============================================================
+   VIZINHANÇA 26 — Estilos
+   ============================================================ */
+
+:root {
+  --bg:          #f7f8fa;
+  --surface:     #ffffff;
+  --surface-2:   #f1f3f7;
+  --border:      #e3e6ec;
+  --text:        #1a1d23;
+  --text-muted:  #6b7280;
+  --primary:     #1d4ed8;
+  --accent:      #f59e0b;
+  --header-bg:   #0f172a;
+  --header-text: #f8fafc;
+
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.08);
+  --shadow-lg: 0 10px 30px rgba(0,0,0,0.12);
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+
+  --font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: var(--font);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  display: grid;
+  grid-template-rows: 64px 1fr;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* ============ HEADER ============ */
+.site-header {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 0 24px;
+  background: var(--header-bg);
+  color: var(--header-text);
+  box-shadow: var(--shadow-md);
+  z-index: 1000;
+  position: relative;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+.brand-mark {
+  color: var(--accent);
+  font-size: 18px;
+  line-height: 1;
+}
+
+.brand-text strong {
+  color: var(--accent);
+  margin-left: 2px;
+}
+
+.breadcrumb {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  color: #cbd5e1;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.breadcrumb .crumb {
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: var(--radius-sm);
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+
+.breadcrumb .crumb:hover {
+  background: rgba(255,255,255,0.10);
+  color: #fff;
+}
+
+.breadcrumb .sep {
+  color: #64748b;
+  user-select: none;
+}
+
+.header-meta {
+  font-size: 12px;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+
+.header-tag {
+  padding: 4px 10px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 999px;
+}
+
+/* ============ MAIN ============ */
+.site-main {
+  position: relative;
+  overflow: hidden;
+}
+
+#map {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background: #eef1f5;
+}
+
+/* ============ CONTROLES ============ */
+.controles {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 500;
+  width: 280px;
+  background: var(--surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  border: 1px solid var(--border);
+}
+
+.controles:empty { display: none; }
+
+.ctrl-bloco {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.ctrl-bloco label {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.ctrl-bloco select {
+  width: 100%;
+  padding: 9px 12px;
+  padding-right: 32px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background-color: var(--surface-2);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+  appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'><path fill='%236b7280' d='M6 8L2 4h8z'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+}
+
+.ctrl-bloco select:hover {
+  border-color: #c7ccd6;
+  background-color: #fff;
+}
+
+.ctrl-bloco select:focus {
+  outline: none;
+  border-color: var(--primary);
+  background-color: #fff;
+  box-shadow: 0 0 0 3px rgba(29, 78, 216, 0.12);
+}
+
+.ctrl-bloco button {
+  padding: 9px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface-2);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.ctrl-bloco button:hover {
+  background: #fff;
+  border-color: #c7ccd6;
+}
+
+.ctrl-bloco button:active {
+  transform: scale(0.98);
+}
+
+/* ============ LEGENDA ============ */
+.legenda {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 500;
+  background: var(--surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  padding: 14px 16px;
+  min-width: 240px;
+  max-width: 300px;
+  border: 1px solid var(--border);
+}
+
+.legenda:empty { display: none; }
+
+.legenda-titulo {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 10px;
+  line-height: 1.3;
+}
+
+.legenda-gradiente {
+  display: flex;
+  height: 14px;
+  border-radius: 4px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+
+.legenda-cel {
+  flex: 1;
+  height: 100%;
+}
+
+.legenda-valores {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-top: 6px;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ============ PAINEL LATERAL ============ */
+.painel-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 600;
+  pointer-events: none;
+}
+
+.painel {
+  width: 340px;
+  max-width: 90vw;
+  height: 100%;
+  background: var(--surface);
+  box-shadow: var(--shadow-lg);
+  padding: 24px;
+  overflow-y: auto;
+  transform: translateX(100%);
+  transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  pointer-events: auto;
+  border-left: 1px solid var(--border);
+}
+
+.painel.aberto {
+  transform: translateX(0);
+}
+
+.painel h3 {
+  margin: 0 0 6px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.3;
+  padding-right: 36px;
+}
+
+.painel h4 {
+  margin: 16px 0 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.painel .painel-sub {
+  margin: 0 0 4px;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.painel hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 16px 0;
+}
+
+.painel-linha {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  font-size: 13px;
+}
+
+.painel-linha b {
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.painel-linha span {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+}
+
+.painel-cands {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.painel-cands li {
+  position: relative;
+  padding: 8px 10px;
+  background: var(--surface-2);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.painel-cands .cand-top {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 12px;
+  z-index: 1;
+}
+
+.painel-cands .cand-top span:last-child {
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  flex-shrink: 0;
+}
+
+.painel-cands .cand-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background: rgba(29, 78, 216, 0.12);
+  z-index: 0;
+  transition: width 0.3s;
+}
+
+.painel-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 50%;
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: background 0.15s;
+  pointer-events: auto;
+}
+
+.painel-close:hover { background: #e2e6ed; }
+
+.painel.aberto ~ .painel-close { display: flex; }
+
+/* ============ LEAFLET OVERRIDES ============ */
+.leaflet-container {
+  font-family: var(--font);
+  background: #eef1f5;
+}
+
+.leaflet-tooltip {
+  background: rgba(15, 23, 42, 0.94);
+  color: #f8fafc;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.20);
+  padding: 8px 12px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.leaflet-tooltip::before {
+  border-top-color: rgba(15, 23, 42, 0.94);
+}
+
+.leaflet-control-attribution {
+  background: rgba(255,255,255,0.85) !important;
+  font-size: 10px !important;
+  border-radius: 6px 0 0 0;
+}
+
+/* ============ RESPONSIVO ============ */
+@media (max-width: 768px) {
+  .site-header { padding: 0 14px; gap: 12px; }
+  .header-meta { display: none; }
+  .breadcrumb { font-size: 13px; }
+
+  .controles {
+    width: calc(100% - 24px);
+    max-width: 320px;
+    top: 12px;
+    left: 12px;
+    padding: 12px;
+  }
+
+  .legenda {
+    bottom: 12px;
+    right: 12px;
+    min-width: 180px;
+    padding: 10px 12px;
+  }
+
+  .painel {
+    width: 100%;
+    max-width: 100vw;
+  }
+}

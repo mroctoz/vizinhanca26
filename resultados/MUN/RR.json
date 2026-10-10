@@ -1,0 +1,2882 @@
+{
+  "uf": "RR",
+  "ano": 2026,
+  "cargos": {
+    "Presidente": {
+      "comparecimento": 325545,
+      "votos_validos": 325545,
+      "brancos": 0,
+      "nulos": 0,
+      "candidatos": [
+        {
+          "nr_candidato": "22",
+          "nm_candidato": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 231322
+        },
+        {
+          "nr_candidato": "13",
+          "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 74420
+        },
+        {
+          "nr_candidato": "70",
+          "nm_candidato": "AUGUSTO JORGE CURY",
+          "qt_votos": 8579
+        },
+        {
+          "nr_candidato": "14",
+          "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 6623
+        },
+        {
+          "nr_candidato": "55",
+          "nm_candidato": "RONALDO RAMOS CAIADO",
+          "qt_votos": 3639
+        },
+        {
+          "nr_candidato": "30",
+          "nm_candidato": "ROMEU ZEMA NETO",
+          "qt_votos": 337
+        },
+        {
+          "nr_candidato": "80",
+          "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 280
+        },
+        {
+          "nr_candidato": "27",
+          "nm_candidato": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 168
+        },
+        {
+          "nr_candidato": "16",
+          "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 60
+        },
+        {
+          "nr_candidato": "21",
+          "nm_candidato": "EDMILSON SILVA COSTA",
+          "qt_votos": 42
+        },
+        {
+          "nr_candidato": "35",
+          "nm_candidato": "WILSON GRASSI JUNIOR",
+          "qt_votos": 41
+        },
+        {
+          "nr_candidato": "29",
+          "nm_candidato": "RUI COSTA PIMENTA",
+          "qt_votos": 34
+        }
+      ]
+    },
+    "Governador": {
+      "comparecimento": 331377,
+      "votos_validos": 319413,
+      "brancos": 3418,
+      "nulos": 8546,
+      "candidatos": [
+        {
+          "nr_candidato": "22",
+          "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+          "qt_votos": 220809
+        },
+        {
+          "nr_candidato": "10",
+          "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+          "qt_votos": 93434
+        },
+        {
+          "nr_candidato": "50",
+          "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+          "qt_votos": 4880
+        },
+        {
+          "nr_candidato": "77",
+          "nm_candidato": "FARAH MESQUITA",
+          "qt_votos": 213
+        },
+        {
+          "nr_candidato": "29",
+          "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+          "qt_votos": 77
+        }
+      ]
+    },
+    "Senador": {
+      "comparecimento": 663918,
+      "votos_validos": 609613,
+      "brancos": 21446,
+      "nulos": 32859,
+      "candidatos": [
+        {
+          "nr_candidato": "227",
+          "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+          "qt_votos": 138269
+        },
+        {
+          "nr_candidato": "155",
+          "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+          "qt_votos": 117270
+        },
+        {
+          "nr_candidato": "555",
+          "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+          "qt_votos": 106652
+        },
+        {
+          "nr_candidato": "400",
+          "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+          "qt_votos": 81845
+        },
+        {
+          "nr_candidato": "222",
+          "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+          "qt_votos": 79038
+        },
+        {
+          "nr_candidato": "300",
+          "nm_candidato": "REGINA APARECIDA SILVA",
+          "qt_votos": 45367
+        },
+        {
+          "nr_candidato": "444",
+          "nm_candidato": "ISAMAR PESSOA RAMALHO",
+          "qt_votos": 18046
+        },
+        {
+          "nr_candidato": "500",
+          "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+          "qt_votos": 9846
+        },
+        {
+          "nr_candidato": "700",
+          "nm_candidato": "HILTON XAVIER DE ARAUJO",
+          "qt_votos": 4736
+        },
+        {
+          "nr_candidato": "456",
+          "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+          "qt_votos": 3806
+        },
+        {
+          "nr_candidato": "433",
+          "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+          "qt_votos": 2442
+        },
+        {
+          "nr_candidato": "505",
+          "nm_candidato": "MARIO SOUZA DA ROCHA",
+          "qt_votos": 1453
+        },
+        {
+          "nr_candidato": "277",
+          "nm_candidato": "ROGÉRIO MIRANDA",
+          "qt_votos": 843
+        }
+      ]
+    }
+  },
+  "municipios": [
+    {
+      "cd_mun": "3000",
+      "nm_mun": "CAROEBE",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 6473,
+          "votos_validos": 6473,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 4989
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 1201
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 108
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 89
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 72
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 6
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 4
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 6612,
+          "votos_validos": 6352,
+          "brancos": 54,
+          "nulos": 206,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 4198
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 2120
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 30
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 1
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 13224,
+          "votos_validos": 12218,
+          "brancos": 310,
+          "nulos": 696,
+          "candidatos": [
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 2952
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 2532
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 1851
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 1722
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 1654
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 1071
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 286
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 52
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 40
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 30
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 12
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 9
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3018",
+      "nm_mun": "BOA VISTA",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 195194,
+          "votos_validos": 195194,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 143225
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 37547
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 6075
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 5077
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 2530
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 255
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 216
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 127
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 53
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 34
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 29
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 26
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 198762,
+          "votos_validos": 191486,
+          "brancos": 2685,
+          "nulos": 4591,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 140548
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 47262
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 3452
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 162
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 62
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 397524,
+          "votos_validos": 363392,
+          "brancos": 15606,
+          "nulos": 18526,
+          "candidatos": [
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 88061
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 76237
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 57132
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 52699
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 37439
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 30272
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 9513
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 3873
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 2728
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 2420
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 1233
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 1203
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 582
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3026",
+      "nm_mun": "IRACEMA",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 5983,
+          "votos_validos": 5983,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 4384
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 1295
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 173
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 65
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 54
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 4
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 6153,
+          "votos_validos": 5897,
+          "brancos": 53,
+          "nulos": 203,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 4180
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 1686
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 30
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 12306,
+          "votos_validos": 11295,
+          "brancos": 328,
+          "nulos": 683,
+          "candidatos": [
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 2651
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 2164
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 1968
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 1822
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 1189
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 1110
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 254
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 35
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 34
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 33
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 14
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 13
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3034",
+      "nm_mun": "CARACARAÍ",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 12170,
+          "votos_validos": 12170,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 8598
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 2987
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 283
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 174
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 108
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 9
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 6
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 4
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 12452,
+          "votos_validos": 11965,
+          "brancos": 98,
+          "nulos": 389,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 7814
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 4085
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 58
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 5
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 3
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 24904,
+          "votos_validos": 22855,
+          "brancos": 641,
+          "nulos": 1408,
+          "candidatos": [
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 4879
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 4809
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 4185
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 3730
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 2382
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 1289
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 1281
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 111
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 80
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 60
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 19
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 15
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3042",
+      "nm_mun": "AMAJARI",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 6343,
+          "votos_validos": 6343,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 4635
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 1426
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 138
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 69
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 64
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 5
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 6520,
+          "votos_validos": 6278,
+          "brancos": 33,
+          "nulos": 209,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 4082
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 2176
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 16
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 4
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 13040,
+          "votos_validos": 12128,
+          "brancos": 157,
+          "nulos": 755,
+          "candidatos": [
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 2649
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 2481
+            },
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 2179
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 1934
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 996
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 933
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 577
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 162
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 111
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 42
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 42
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 12
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 10
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3050",
+      "nm_mun": "ALTO ALEGRE",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 11106,
+          "votos_validos": 11106,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 7951
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 2657
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 227
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 138
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 116
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 8
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 6
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 11347,
+          "votos_validos": 10923,
+          "brancos": 101,
+          "nulos": 323,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 7254
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 3603
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 60
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 6
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 22694,
+          "votos_validos": 20495,
+          "brancos": 811,
+          "nulos": 1388,
+          "candidatos": [
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 4902
+            },
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 4310
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 3787
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 3017
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 2024
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 1073
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 850
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 257
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 173
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 55
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 22
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 15
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 10
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3069",
+      "nm_mun": "CANTÁ",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 14361,
+          "votos_validos": 14361,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 10037
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 3667
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 275
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 192
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 168
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 14
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 5
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 14635,
+          "votos_validos": 14113,
+          "brancos": 98,
+          "nulos": 424,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 9317
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 4678
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 112
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 4
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 2
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 29270,
+          "votos_validos": 27084,
+          "brancos": 623,
+          "nulos": 1563,
+          "candidatos": [
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 5615
+            },
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 5415
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 5136
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 4717
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 2803
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 1604
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 827
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 336
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 248
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 237
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 70
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 49
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 27
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3077",
+      "nm_mun": "BONFIM",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 9892,
+          "votos_validos": 9892,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 6564
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 3037
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 126
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 87
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 58
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 8
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 6
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 10091,
+          "votos_validos": 9685,
+          "brancos": 55,
+          "nulos": 351,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 6219
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 3382
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 83
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 20182,
+          "votos_validos": 18804,
+          "brancos": 300,
+          "nulos": 1078,
+          "candidatos": [
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 4092
+            },
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 3861
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 3848
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 2958
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 1856
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 971
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 546
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 502
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 51
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 47
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 32
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 21
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 19
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3085",
+      "nm_mun": "RORAINÓPOLIS",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 18594,
+          "votos_validos": 18594,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 13503
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 4189
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 408
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 314
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 135
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 17
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 14
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 5
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 19054,
+          "votos_validos": 18133,
+          "brancos": 228,
+          "nulos": 693,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 12020
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 5963
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 130
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 14
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 6
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 38108,
+          "votos_validos": 34665,
+          "brancos": 1172,
+          "nulos": 2271,
+          "candidatos": [
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 8139
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 7356
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 7154
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 4298
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 4131
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 1837
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 1148
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 201
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 201
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 91
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 48
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 40
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 21
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3093",
+      "nm_mun": "MUCAJAÍ",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 11734,
+          "votos_validos": 11734,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 9218
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 2022
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 228
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 142
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 109
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 4
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 4
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 4
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 12003,
+          "votos_validos": 11599,
+          "brancos": 81,
+          "nulos": 323,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 7571
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 3982
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 39
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 7
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 24006,
+          "votos_validos": 22293,
+          "brancos": 540,
+          "nulos": 1173,
+          "candidatos": [
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 5526
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 4591
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 3754
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 3304
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 2272
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 1887
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 493
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 274
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 112
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 43
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 27
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 8
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3107",
+      "nm_mun": "UIRAMUTÃ",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 7795,
+          "votos_validos": 7795,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 5375
+            },
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 2327
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 48
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 23
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 19
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 7926,
+          "votos_validos": 7587,
+          "brancos": 9,
+          "nulos": 330,
+          "candidatos": [
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 4465
+            },
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 2591
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 531
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 15852,
+          "votos_validos": 14968,
+          "brancos": 55,
+          "nulos": 829,
+          "candidatos": [
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 5739
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 2754
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 2437
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 1838
+            },
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 990
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 386
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 378
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 185
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 173
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 34
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 33
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 17
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3115",
+      "nm_mun": "NORMANDIA",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 8247,
+          "votos_validos": 8247,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 4440
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 3558
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 151
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 57
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 33
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 8366,
+          "votos_validos": 8108,
+          "brancos": 21,
+          "nulos": 237,
+          "candidatos": [
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 4004
+            },
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 3998
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 104
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 16732,
+          "votos_validos": 15805,
+          "brancos": 170,
+          "nulos": 757,
+          "candidatos": [
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 5189
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 2914
+            },
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 2019
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 1940
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 1245
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 773
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 679
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 670
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 185
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 144
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 24
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 13
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 10
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3123",
+      "nm_mun": "PACARAIMA",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 7941,
+          "votos_validos": 7941,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 4619
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 3065
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 120
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 86
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 37
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 6
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 8082,
+          "votos_validos": 7803,
+          "brancos": 54,
+          "nulos": 225,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 4656
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 2965
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 179
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 1
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 16164,
+          "votos_validos": 15156,
+          "brancos": 292,
+          "nulos": 716,
+          "candidatos": [
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 4137
+            },
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 3136
+            },
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 2200
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 1988
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 980
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 786
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 778
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 766
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 279
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 39
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 26
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 25
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 16
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3131",
+      "nm_mun": "SÃO JOÃO DA BALIZA",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 4729,
+          "votos_validos": 4729,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 3319
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 1154
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 108
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 74
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 61
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 6
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 6
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 4842,
+          "votos_validos": 4628,
+          "brancos": 54,
+          "nulos": 160,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 3198
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 1401
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 28
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 9684,
+          "votos_validos": 8954,
+          "brancos": 228,
+          "nulos": 502,
+          "candidatos": [
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 2633
+            },
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 2099
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 1318
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 1126
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 653
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 446
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 310
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 175
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 147
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 18
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 12
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 10
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 7
+            }
+          ]
+        }
+      }
+    },
+    {
+      "cd_mun": "3158",
+      "nm_mun": "SÃO LUIZ",
+      "cargos": {
+        "Presidente": {
+          "comparecimento": 4983,
+          "votos_validos": 4983,
+          "brancos": 0,
+          "nulos": 0,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "FLAVIO NANTES BOLSONARO",
+              "qt_votos": 3513
+            },
+            {
+              "nr_candidato": "13",
+              "nm_candidato": "LUIZ INÁCIO LULA DA SILVA",
+              "qt_votos": 1240
+            },
+            {
+              "nr_candidato": "70",
+              "nm_candidato": "AUGUSTO JORGE CURY",
+              "qt_votos": 111
+            },
+            {
+              "nr_candidato": "14",
+              "nm_candidato": "RENAN ANTONIO FERREIRA DOS SANTOS",
+              "qt_votos": 65
+            },
+            {
+              "nr_candidato": "55",
+              "nm_candidato": "RONALDO RAMOS CAIADO",
+              "qt_votos": 46
+            },
+            {
+              "nr_candidato": "80",
+              "nm_candidato": "SAMARA MARTINS DA SILVA FEITOSA",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "30",
+              "nm_candidato": "ROMEU ZEMA NETO",
+              "qt_votos": 2
+            },
+            {
+              "nr_candidato": "21",
+              "nm_candidato": "EDMILSON SILVA COSTA",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "RUI COSTA PIMENTA",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "27",
+              "nm_candidato": "CLARIANA ZACARKIM BARAO",
+              "qt_votos": 1
+            },
+            {
+              "nr_candidato": "16",
+              "nm_candidato": "HERTZ DA CONCEICAO DIAS",
+              "qt_votos": 0
+            },
+            {
+              "nr_candidato": "35",
+              "nm_candidato": "WILSON GRASSI JUNIOR",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Governador": {
+          "comparecimento": 5114,
+          "votos_validos": 4856,
+          "brancos": 53,
+          "nulos": 205,
+          "candidatos": [
+            {
+              "nr_candidato": "22",
+              "nm_candidato": "ARTHUR HENRIQUE BRANDAO MACHADO",
+              "qt_votos": 3163
+            },
+            {
+              "nr_candidato": "10",
+              "nm_candidato": "FRANCISCO DOS SANTOS SAMPAIO",
+              "qt_votos": 1662
+            },
+            {
+              "nr_candidato": "50",
+              "nm_candidato": "ROSIMAYRE PATRICIA AIRES DA SILVA",
+              "qt_votos": 28
+            },
+            {
+              "nr_candidato": "77",
+              "nm_candidato": "FARAH MESQUITA",
+              "qt_votos": 3
+            },
+            {
+              "nr_candidato": "29",
+              "nm_candidato": "JOSE CLEBIO GENUINO DO NASCIMENTO",
+              "qt_votos": 0
+            }
+          ]
+        },
+        "Senador": {
+          "comparecimento": 10228,
+          "votos_validos": 9501,
+          "brancos": 213,
+          "nulos": 514,
+          "candidatos": [
+            {
+              "nr_candidato": "400",
+              "nm_candidato": "FRANCISCO DE ASSIS RODRIGUES",
+              "qt_votos": 2842
+            },
+            {
+              "nr_candidato": "227",
+              "nm_candidato": "ANTONIO CARLOS NICOLETTI",
+              "qt_votos": 2052
+            },
+            {
+              "nr_candidato": "555",
+              "nm_candidato": "MARIA HELENA TEIXEIRA LIMA",
+              "qt_votos": 1668
+            },
+            {
+              "nr_candidato": "155",
+              "nm_candidato": "MARIA TERESA SAENZ SURITA GUIMARÃES",
+              "qt_votos": 1094
+            },
+            {
+              "nr_candidato": "222",
+              "nm_candidato": "HELIO FERNANDO BARBOSA LOPES",
+              "qt_votos": 572
+            },
+            {
+              "nr_candidato": "300",
+              "nm_candidato": "REGINA APARECIDA SILVA",
+              "qt_votos": 530
+            },
+            {
+              "nr_candidato": "700",
+              "nm_candidato": "HILTON XAVIER DE ARAUJO",
+              "qt_votos": 471
+            },
+            {
+              "nr_candidato": "444",
+              "nm_candidato": "ISAMAR PESSOA RAMALHO",
+              "qt_votos": 207
+            },
+            {
+              "nr_candidato": "500",
+              "nm_candidato": "BARTOLOMEU DA SILVA TOMAZ",
+              "qt_votos": 35
+            },
+            {
+              "nr_candidato": "456",
+              "nm_candidato": "MÁRCIO HENRIQUE JUNQUEIRA PEREIRA",
+              "qt_votos": 13
+            },
+            {
+              "nr_candidato": "277",
+              "nm_candidato": "ROGÉRIO MIRANDA",
+              "qt_votos": 10
+            },
+            {
+              "nr_candidato": "505",
+              "nm_candidato": "MARIO SOUZA DA ROCHA",
+              "qt_votos": 6
+            },
+            {
+              "nr_candidato": "433",
+              "nm_candidato": "HIPERION DE OLIVEIRA SILVA",
+              "qt_votos": 1
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

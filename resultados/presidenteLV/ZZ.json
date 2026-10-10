@@ -1,0 +1,1351 @@
+{
+  "uf": "ZZ",
+  "ano": 2026,
+  "cargo": "Presidente",
+  "total_locais": 17,
+  "total_comparecimento": 341766,
+  "total_abstencoes": null,
+  "total_brancos": 5816,
+  "total_nulos": 4945,
+  "candidatos_total": [
+    {
+      "nr_votavel": "13",
+      "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+      "qt_votos": 157387
+    },
+    {
+      "nr_votavel": "22",
+      "nm_votavel": "FLAVIO NANTES BOLSONARO",
+      "qt_votos": 143900
+    },
+    {
+      "nr_votavel": "70",
+      "nm_votavel": "AUGUSTO JORGE CURY",
+      "qt_votos": 9734
+    },
+    {
+      "nr_votavel": "14",
+      "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+      "qt_votos": 8580
+    },
+    {
+      "nr_votavel": "55",
+      "nm_votavel": "RONALDO RAMOS CAIADO",
+      "qt_votos": 4708
+    },
+    {
+      "nr_votavel": "30",
+      "nm_votavel": "ROMEU ZEMA NETO",
+      "qt_votos": 3329
+    },
+    {
+      "nr_votavel": "80",
+      "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+      "qt_votos": 1053
+    },
+    {
+      "nr_votavel": "27",
+      "nm_votavel": "CLARIANA ZACARKIM BARAO",
+      "qt_votos": 825
+    },
+    {
+      "nr_votavel": "21",
+      "nm_votavel": "EDMILSON SILVA COSTA",
+      "qt_votos": 421
+    },
+    {
+      "nr_votavel": "16",
+      "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+      "qt_votos": 373
+    },
+    {
+      "nr_votavel": "35",
+      "nm_votavel": "WILSON GRASSI JUNIOR",
+      "qt_votos": 373
+    },
+    {
+      "nr_votavel": "29",
+      "nm_votavel": "RUI COSTA PIMENTA",
+      "qt_votos": 199
+    },
+    {
+      "nr_votavel": "28",
+      "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+      "qt_votos": 123
+    }
+  ],
+  "locais": [
+    {
+      "local_id": "1_1015",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 161158,
+      "abstencoes": null,
+      "brancos": 2571,
+      "nulos": 2338,
+      "candidatos": [
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 77535
+        },
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 64733
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 4484
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 4197
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 2171
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 1483
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 523
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 382
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 199
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 194
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 167
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 110
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 71
+        }
+      ]
+    },
+    {
+      "local_id": "1_1023",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 43630,
+      "abstencoes": null,
+      "brancos": 998,
+      "nulos": 746,
+      "candidatos": [
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 21155
+        },
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 16787
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 1259
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 1068
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 639
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 514
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 143
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 118
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 65
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 59
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 37
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 27
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 15
+        }
+      ]
+    },
+    {
+      "local_id": "1_1031",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 33862,
+      "abstencoes": null,
+      "brancos": 531,
+      "nulos": 489,
+      "candidatos": [
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 17516
+        },
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 12004
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 1127
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 905
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 570
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 386
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 125
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 69
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 40
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 40
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 39
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 13
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 8
+        }
+      ]
+    },
+    {
+      "local_id": "1_1040",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 15986,
+      "abstencoes": null,
+      "brancos": 288,
+      "nulos": 263,
+      "candidatos": [
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 8999
+        },
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 5067
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 474
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 337
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 213
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 147
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 70
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 40
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 27
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 24
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 20
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 10
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 7
+        }
+      ]
+    },
+    {
+      "local_id": "1_1050",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 1059,
+      "abstencoes": null,
+      "brancos": 18,
+      "nulos": 14,
+      "candidatos": [
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 479
+        },
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 453
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 38
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 35
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 7
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 7
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 3
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 2
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 1
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 1
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 1
+        }
+      ]
+    },
+    {
+      "local_id": "1_1058",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 13612,
+      "abstencoes": null,
+      "brancos": 141,
+      "nulos": 155,
+      "candidatos": [
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 9423
+        },
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 2861
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 339
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 283
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 184
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 174
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 12
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 10
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 9
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 6
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 6
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 5
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 4
+        }
+      ]
+    },
+    {
+      "local_id": "1_1066",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 21841,
+      "abstencoes": null,
+      "brancos": 332,
+      "nulos": 315,
+      "candidatos": [
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 12899
+        },
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 6695
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 520
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 470
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 249
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 191
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 64
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 33
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 23
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 23
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 16
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 6
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 5
+        }
+      ]
+    },
+    {
+      "local_id": "1_1080",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 16388,
+      "abstencoes": null,
+      "brancos": 158,
+      "nulos": 133,
+      "candidatos": [
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 9411
+        },
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 5341
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 509
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 475
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 165
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 98
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 47
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 16
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 16
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 8
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 5
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 4
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 2
+        }
+      ]
+    },
+    {
+      "local_id": "1_1082",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 16135,
+      "abstencoes": null,
+      "brancos": 256,
+      "nulos": 197,
+      "candidatos": [
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 7466
+        },
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 6983
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 433
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 280
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 259
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 157
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 33
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 22
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 13
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 13
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 13
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 9
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 1
+        }
+      ]
+    },
+    {
+      "local_id": "1_1090",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 4790,
+      "abstencoes": null,
+      "brancos": 58,
+      "nulos": 35,
+      "candidatos": [
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 3398
+        },
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 997
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 106
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 71
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 61
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 33
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 11
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 7
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 4
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 3
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 3
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 2
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 1
+        }
+      ]
+    },
+    {
+      "local_id": "1_1104",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 959,
+      "abstencoes": null,
+      "brancos": 12,
+      "nulos": 14,
+      "candidatos": [
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 595
+        },
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 243
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 29
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 29
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 14
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 14
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 5
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 3
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 1
+        }
+      ]
+    },
+    {
+      "local_id": "1_1112",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 500,
+      "abstencoes": null,
+      "brancos": 9,
+      "nulos": 3,
+      "candidatos": [
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 376
+        },
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 98
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 7
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 3
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 1
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 1
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 1
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 1
+        }
+      ]
+    },
+    {
+      "local_id": "1_1120",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 464,
+      "abstencoes": null,
+      "brancos": 6,
+      "nulos": 4,
+      "candidatos": [
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 229
+        },
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 183
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 12
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 10
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 9
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 7
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 2
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 1
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 1
+        }
+      ]
+    },
+    {
+      "local_id": "1_1236",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 6682,
+      "abstencoes": null,
+      "brancos": 299,
+      "nulos": 152,
+      "candidatos": [
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 4482
+        },
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 910
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 306
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 185
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 100
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 77
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 75
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 36
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 29
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 12
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 12
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 4
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 3
+        }
+      ]
+    },
+    {
+      "local_id": "1_1244",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 900,
+      "abstencoes": null,
+      "brancos": 11,
+      "nulos": 6,
+      "candidatos": [
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 582
+        },
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 211
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 36
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 33
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 9
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 9
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 2
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 1
+        }
+      ]
+    },
+    {
+      "local_id": "1_1287",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 806,
+      "abstencoes": null,
+      "brancos": 21,
+      "nulos": 20,
+      "candidatos": [
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 585
+        },
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 94
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 31
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 17
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 12
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 6
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 4
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 4
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 3
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 3
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 3
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 2
+        },
+        {
+          "nr_votavel": "16",
+          "nm_votavel": "HERTZ DA CONCEICAO DIAS",
+          "qt_votos": 1
+        }
+      ]
+    },
+    {
+      "local_id": "1_1376",
+      "geom_key": null,
+      "nr_local": null,
+      "nr_zona": null,
+      "nm_local": null,
+      "cd_mun": null,
+      "area_km2": null,
+      "turno": 1,
+      "comparecimento": 2994,
+      "abstencoes": null,
+      "brancos": 107,
+      "nulos": 61,
+      "candidatos": [
+        {
+          "nr_votavel": "22",
+          "nm_votavel": "FLAVIO NANTES BOLSONARO",
+          "qt_votos": 2197
+        },
+        {
+          "nr_votavel": "13",
+          "nm_votavel": "LUIZ INÁCIO LULA DA SILVA",
+          "qt_votos": 300
+        },
+        {
+          "nr_votavel": "70",
+          "nm_votavel": "AUGUSTO JORGE CURY",
+          "qt_votos": 122
+        },
+        {
+          "nr_votavel": "14",
+          "nm_votavel": "RENAN ANTONIO FERREIRA DOS SANTOS",
+          "qt_votos": 84
+        },
+        {
+          "nr_votavel": "55",
+          "nm_votavel": "RONALDO RAMOS CAIADO",
+          "qt_votos": 45
+        },
+        {
+          "nr_votavel": "30",
+          "nm_votavel": "ROMEU ZEMA NETO",
+          "qt_votos": 25
+        },
+        {
+          "nr_votavel": "27",
+          "nm_votavel": "CLARIANA ZACARKIM BARAO",
+          "qt_votos": 18
+        },
+        {
+          "nr_votavel": "80",
+          "nm_votavel": "SAMARA MARTINS DA SILVA FEITOSA",
+          "qt_votos": 13
+        },
+        {
+          "nr_votavel": "21",
+          "nm_votavel": "EDMILSON SILVA COSTA",
+          "qt_votos": 12
+        },
+        {
+          "nr_votavel": "35",
+          "nm_votavel": "WILSON GRASSI JUNIOR",
+          "qt_votos": 5
+        },
+        {
+          "nr_votavel": "29",
+          "nm_votavel": "RUI COSTA PIMENTA",
+          "qt_votos": 3
+        },
+        {
+          "nr_votavel": "28",
+          "nm_votavel": "LEONARDO ALVES DE ARAUJO",
+          "qt_votos": 2
+        }
+      ]
+    }
+  ]
+}
